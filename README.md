@@ -11,3 +11,5 @@ How to run it:
 Input files: single binary mask in each field of view. Tracking of multiple shapes not supported.
 
 The functions of other files are commented in the code.
+
+If the problem occur (because of the poor explanation, possibly), you can contact me in the e-mail mentioned in the publication "Morphomigrational description - a new approach connecting cell migration with its morphology" (I'll add the doi if it is gonna be published).
