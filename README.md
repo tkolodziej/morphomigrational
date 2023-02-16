@@ -8,7 +8,7 @@ How to run it:
 4) Go to the folder with binary masks
 5) Run the program
 
-Input files: single binary mask in each field of view. Tracking of multiple shapes not supported.
+Input files: single binary mask in each field of view. Tracking of multiple shapes is not supported.
 
 The functions of other files are commented in the code.
 
